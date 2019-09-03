@@ -1,0 +1,21 @@
+.ballon-animation{
+    position: relative;
+    overflow: hidden;
+    height: 100vh;
+    background-color: rgb(130, 220, 248);
+    &__image{
+        position: absolute;
+        height: 20%; 
+    &--cloud
+    {
+        width: 20%;
+    }
+    &--ballon
+    {
+        width: 25%;
+        height: 22%;
+        top:50%;
+        left:50%;
+    }
+}
+}

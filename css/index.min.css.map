@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "ACAA,AAAA,CAAC,AAAA,CACG,MAAM,CAAC,CAAC,CACR,OAAO,CAAC,CAAC,CACT,UAAU,CAAE,UAAU,CACzB,ACJD,AAAA,iBAAiB,AAAA,CACb,QAAQ,CAAE,QAAQ,CAClB,QAAQ,CAAE,MAAM,CAChB,MAAM,CAAE,KAAK,CACb,gBAAgB,CAAE,OAAkB,CAgBvC,AAfI,AAAD,wBAAQ,AAAA,CACJ,QAAQ,CAAE,QAAQ,CAClB,MAAM,CAAE,GAAG,CAYlB,AAXI,AAAD,+BAAQ,AACR,CACI,KAAK,CAAE,GAAG,CACb,AACA,AAAD,gCAAS,AACT,CACI,KAAK,CAAE,GAAG,CACV,MAAM,CAAE,GAAG,CACX,GAAG,CAAC,GAAG,CACP,IAAI,CAAC,GAAG,CACX",
+    "sources": [
+        "../sass/index.scss",
+        "../sass/_reset.scss",
+        "../sass/_ballon-animation.scss"
+    ],
+    "names": [],
+    "file": "index.min.css"
+}
